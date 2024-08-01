@@ -18,8 +18,9 @@ Notiflix.Notify.init({
   width: '500px',
   fontSize: '22px',
   failure: {
+    textColor: 'rgba(242, 10, 33, 1)',
     background: '#80cbc4',
-    notiflixIconColor: 'rgba(244,67,54)',
+    notiflixIconColor: 'rgba(242, 10, 33, 1)',
   },
 });
 const options = {
